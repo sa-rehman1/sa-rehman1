@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Syed Rehman
+# 👋 Hi, I'm Syed Abdul Rehman
 
 🎓 Master’s Student in Artificial Intelligence @ Illinois Institute of Technology  
 💻 Passionate about **Machine Learning, MLOps, NLP, and Agentic AI workflows**  
