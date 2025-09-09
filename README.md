@@ -35,8 +35,7 @@ Designed multi-agent AI workflows integrating LLMs and adaptive pipelines to aut
 
 ## 📫 Connect & Resume
 
-📄** View My Resume:** https://drive.google.com/uc?export=view&id=11W7QTPp9ww3p0nOgckJHpPsyaD4-tFz1
-
-[LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:contactsyed135@gmail.com)  
+[📄 View My Resume](https://drive.google.com/uc?export=view&id=11W7QTPp9ww3p0nOgckJHpPsyaD4-tFz1)  
+[LinkedIn](https://www.linkedin.com/in/sa-rehman1/) | [Email](mailto:contactsyed135@gmail.com)  
 
 ✨ And much more in my pinned repositories!
